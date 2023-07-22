@@ -24,9 +24,7 @@ I'm a passionate software developer and tech enthusiast. I love to explore new t
 ## Projects
 Here are some of my notable projects:
 
-- [Project 1](https://github.com/yourusername/project1) - Short description of your project.
-- [Project 2](https://github.com/yourusername/project2) - Short description of your project.
-- [Project 3](https://github.com/yourusername/project3) - Short description of your project.
+- [Personal Portfolio](https://github.com/visheshdubey/visheshdubey.com) - My personal portfolio made with Next.Js and Radix UI.
 
 ## GitHub Stats
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=visheshdubey&show_icons=true&count_private=true&hide=prs,issues&theme=dark)
