@@ -17,9 +17,9 @@ I'm a passionate software developer and tech enthusiast. I love to explore new t
 - **Front-end:** React.js, Next.js, Tailwind
 - **Back-end:** Node.js, Express.js, Next.Js
 - **Database:** MongoDB, MySQL, Postgres
-- **Version Control:** Git, GitHub
+- **Version Control:** Git, GitHub, Bitbucket
 - **Tools:** VS Code, Postman, Webpack
-- **DevOps:** Docker, Jenkins
+- **DevOps:** Docker, Jenkins, Prometheus, Grafana
 
 ## Projects
 Here are some of my notable projects:
@@ -31,8 +31,8 @@ Here are some of my notable projects:
 
 ## Get in Touch
 - 📧 Email: visheshdubey2016@gmail.com
-- 🐦 Twitter: [@yourtwitterhandle](https://twitter.com/visheshdubey_)
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/visheshdbey)
+- 🐦 Twitter: [@visheshdubey_](https://twitter.com/visheshdubey_)
+- 💼 LinkedIn: [@visheshdbey](https://www.linkedin.com/in/visheshdbey)
 
 Feel free to reach out if you have any questions or just want to connect. Let's learn and grow together! 😊
 
