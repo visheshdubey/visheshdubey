@@ -7,14 +7,14 @@
 ## About Me
 I'm a passionate software developer and tech enthusiast. I love to explore new technologies and learn new things. My primary focus is on web development, but I'm always eager to dive into other areas like machine learning and mobile app development.
 
-- 🌱 I’m currently learning [Astro.js](https://reactjs.org).
+- 🌱 I’m currently learning [SvelteKit](https://kit.svelte.dev/).
 - 💬 Ask me about anything related to web development or programming, and I'll be happy to help.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a coffee lover and I love mountains.
 
 ## Tech Stack
 - **Languages:** Typescript, JavaScript, HTML, CSS, Java
-- **Front-end:** React.js, Next.js, Tailwind
+- **Front-end:** React.js, Svelte.js, Next.js, Tailwind
 - **Back-end:** Node.js, Express.js, Next.Js
 - **Database:** MongoDB, MySQL, Postgres
 - **Version Control:** Git, GitHub, Bitbucket
